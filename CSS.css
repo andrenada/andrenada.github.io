@@ -9,8 +9,11 @@ body{background: black;}
 
 
 .testomodificato {color: orange; font-size:40px}
+/*
 .fotomodificata {transform: scale(0.4); position:fixed; top:-90px; left:1550px}
+*/
 
+.fotomodificata {transform: scale(0.3); position:absolute; top:-125px; left: 1075px}
 .fotolibro {transform: scale(0.2);position:absolute; top:-175px; left:0px}
 
 .centrale {display: block; margin-left: auto; margin-right: auto; width: 50%;}
